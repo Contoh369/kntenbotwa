@@ -13,11 +13,10 @@
 <a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
-</p>
+< A  href = "#" > < img  title = "maintened"  src = " https://img.shields.io/badge/MAINTENED-YES-blue.svg "
 
 ## Gandakan proyek ini
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+
 pestakntenbotwa.dll
 > git clone https://github.com/XP-TN/kntenbotwa
 ``
@@ -34,12 +33,12 @@ you've just cloned!!
 > cd kntenbotwa
 > bash install.sh
 ``
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+
 ### Penggunaan
 pesta
 > npm mulai
 ``
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>                                                                          
+                                                                         
 ## Features
 
 | Sticker Creator |                Feature           |
@@ -70,15 +69,14 @@ pesta
 | :-----------: | :--------------------------------: |
 |       ✅        |   Set Prefix                     |
 |       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
+| ✅ | Hapus Semua Obrolan |
 
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
+## Terima kasih khusus untuk
+* [`adiwajshing / Baileys`] (https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+
 ## Grup
 * [`WhatsApp`](Error waiting)
 ### Donate
 * [ `Saweria` ] ( https://saweria.co/donate/itachi
-</s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </ s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s> orang <g / s>
+

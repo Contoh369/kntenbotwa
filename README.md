@@ -75,9 +75,10 @@ you've just cloned!!
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-
-
-## Group
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+## Grup
 * [`WhatsApp`](Error waiting)
 ### Donate
-* [`Saweria`](https://saweria.co/donate/agung1)
+* [ `Saweria` ] ( https://saweria.co/donate/itachi
+</s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </ s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s>    </s> orang <g / s>

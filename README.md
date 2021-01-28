@@ -78,5 +78,5 @@ pesta
 ## Grup
 * [`WhatsApp`](Error waiting)
 ### Donate
-* [ `Saweria` ] ( https://saweria.co/donate/itachi
+* [ `Saweria` ] ( https://saweria.co/donate/agung1)
 

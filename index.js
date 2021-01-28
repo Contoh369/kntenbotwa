@@ -80,13 +80,13 @@ const bacotrandom = JSON.parse(fs.readFileSync('./src/bacot.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const user = JSON.parse(fs.readFileSync('./src/user.json'))
 ban = []
-cr = '*NOEER BOT*'
-vz = '*Terima Kasih Sudah Daftar Di NOEER BOT*'
+cr = '*ITACHI BOT*'
+vz = '*Terima Kasih Sudah Daftar Di ITACHI BOT*'
 const vcard = 'BEGIN:VCARD\n' //
             + 'VERSION:3.0\n' //
-            + 'FN: A187ID\n' //
-            + 'ORG:Creator NOEER;\n' //
-            + 'TEL;type=CELL;type=VOICE;waid=6285722553839:+6285722553839 \n' //
+            + 'FN: ITACHIID\n' //
+            + 'ORG:Creator Lance;\n' //
+            + 'TEL;type=CELL;type=VOICE;waid=+62895372698638:+62895372698638 \n' //
             + 'END:VCARD'
 prefix = '!'
 blocked = []
@@ -275,22 +275,22 @@ async function starts() {
 				only: {
 					group: '[❗] Perintah ini hanya bisa di gunakan dalam group! ❌',
 					premium: '[❗] Perintah ini hanya bisa di gunakan user premium! ❌',
-					mod: '[❗] Perintah ini hanya bisa di gunakan untuk user mod NOEER ❌',
+					mod: '[❗] Perintah ini hanya bisa di gunakan untuk user mod ITACHI ❌',
 					benned: 'Anda Ke Band Silahkan Hubungi Owner Agar Membuka Band Anda',
 					ownerG: '[❗] Lu spe owner? ini fitur khusus owner njierrr ❌',
 					ownerB: '[❗] Lu spe owner? ini fitur khusus owner njierrr ❌',
-					userB: `──「 DAFTAR 」──\nMaaf sepertinya kamu belum terdaftar di NOEERBOT\nDaftar untuk menikmati fitur bot ini!\n\n!daftar Aris|19\n\n──「 NOEERBOT 」──`,
+					userB: `──「 DAFTAR 」──\nMaaf sepertinya kamu belum terdaftar di ITACHI\nDaftar untuk menikmati fitur bot ini!\n\n!daftar Aris|19\n\n──「 ITACHI 」──`,
 					admin: '[❗] Perintah ini hanya bisa di gunakan oleh admin group! ❌',
 					Badmin: ' [❗] Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌',
 				}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["6285722553839@s.whatsapp.net"]
-			const mod = [ownerNumber,"6285722553839@s.whatsapp.net"]
-			const adminbotnumber = ["6285722553839@s.whatsapp.net"]
-			const frendsowner = ["6285722553839@s.whatsapp.net"]
-			const premium = ["6285722553839@s.whatsapp.net"]
+			const ownerNumber = ["62895372698638@s.whatsapp.net"]
+			const mod = [ownerNumber,"62895372698638@s.whatsapp.net"]
+			const adminbotnumber = ["62895372698638@s.whatsapp.net"]
+			const frendsowner = ["62895372698638@s.whatsapp.net"]
+			const premium = ["62895372698638@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
 		    const tescuk = ["0@s.whatsapp.net"]
@@ -419,10 +419,10 @@ async function starts() {
 					
 					client.sendMessage(from, othermenu(prefix), text, { quoted: mek })
 					break
-					case 'NOEERgroup':
+					case 'ITACHIgroup':
 					if (isBanned) return reply(mess.only.benned)    
 					if (!isUser) return reply(mess.only.userB)
-					client.sendMessage(from, '*NOEER GROUP*\n\nLink : https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs*', text, { quoted: mek })
+					client.sendMessage(from, '*ITACHI GROUP*\n\nLink : https://chat.whatsapp.com/DSSHmG2KjKJLoFp9B9mkVs*', text, { quoted: mek })
 					break
 					case 'funmenu':
 					if (isBanned) return reply(mess.only.benned)    
@@ -681,7 +681,7 @@ async function starts() {
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
-						teks = '╭────「 *PREMIUM👑* 」──*\n│+ *Number* : \n│+ *Expired*: *30 Days*\n│+ *Status*: *ACTIVE*\n│ Thx for Upgrade to Premium🥰\n*╰──────「 *NOEER* 」────'
+						teks = '╭────「 *PREMIUM👑* 」──*\n│+ *Number* : \n│+ *Expired*: *30 Days*\n│+ *Status*: *ACTIVE*\n│ Thx for Upgrade to Premium🥰\n*╰──────「 *ITACHI* 」────'
 						for (let _ of mentioned) {
 							teks += `@${_.split('@')[0]}\n`
 						}
@@ -700,14 +700,14 @@ async function starts() {
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					mentioned = mek.message.extendedTextMessage.contextInfo.mentionedJid
 					if (mentioned.length > 1) {
-						teks = '╭────「 *PREMIUM👑* 」──*\n│+ *Number* : \n│+ *Status*: *DEACTIVE*\n│ See u for next order🙂\n*╰──────「 *NOEER* 」────'
+						teks = '╭────「 *PREMIUM👑* 」──*\n│+ *Number* : \n│+ *Status*: *DEACTIVE*\n│ See u for next order🙂\n*╰──────「 *ITACI* 」────'
 						for (let _ of mentioned) {
 							teks += `@${_.split('@')[0]}\n`
 						}
 						mentions(teks, mentioned, true)
 						client.sendMessage(from, mentioned)
 					} else {
-						mentions(`╭────「 *PREMIUM👑* 」──*\n│+ *Number* : @${mentioned[0].split('@')[0]}\n│+ *Status*: *DEACTIVE*\n│ See u for next order🙂\n*╰──────「 *NOEER* 」────`, mentioned, true)
+						mentions(`╭────「 *PREMIUM👑* 」──*\n│+ *Number* : @${mentioned[0].split('@')[0]}\n│+ *Status*: *DEACTIVE*\n│ See u for next order🙂\n*╰──────「 *ITACHI* 」────`, mentioned, true)
 					client.sendMessage(from, mentioned)
 				    }
 					break
@@ -715,13 +715,13 @@ async function starts() {
 					if (isBanned) return reply(mess.only.benned)    
 					if (!isUser) return reply(mess.only.userB)
 					tod = await getBuffer(`https://i.ibb.co/XDwBVDJ/1f2652c622fa.jpg`)
-					client.sendMessage(from, tod, image, { quoted: mek, caption: '*╭────*「 *ADMINBOT NOEER ✨* 」\n*│+wa.me/6285722553839*╰──────*「 *NOEER* 」*────*\n\n*_JIKA INGIN MENJADI ADMIN  NOEER BOT_*\n*_Ketik /iklan_*' })
+					client.sendMessage(from, tod, image, { quoted: mek, caption: '*╭────*「 *ADMINBOT NOEER ✨* 」\n*│+wa.me/6285722553839*╰──────*「 *ITACHI* 」*────*\n\n*_JIKA INGIN MENJADI ADMIN  NOEER BOT_*\n*_Ketik /iklan_*' })
 					break
 					case 'premiumcek':
 					if (isBanned) return reply(mess.only.benned)    
 					if (!isUser) return reply(mess.only.userB)
 					sa = await getBuffer(`https://i.ibb.co/PcQ6tsB/79ac87b9358c.jpg`)
-					client.sendMessage(from, sa, image, { quoted: mek, caption: '*╭────*「 *PREMIUM USER👑* 」\n*│+ wa.me/6285722553839*╰──────*「 * NOEER* 」*────*\n\n*_JIKA INGIN MENJADI PREMIUM USER  NOEER BOT_*\n*_Ketik !daftarvip*' })
+					client.sendMessage(from, sa, image, { quoted: mek, caption: '*╭────*「 *PREMIUM USER👑* 」\n*│+ wa.me/6285722553839*╰──────*「 *ITACHI* 」*────*\n\n*_JIKA INGIN MENJADI PREMIUM USER  NOEER BOT_*\n*_Ketik !daftarvip*' })
 					break
 					case 'cekmod': 
  

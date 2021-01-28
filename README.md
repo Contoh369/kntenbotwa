@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/XP-TN"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center">
+< p  align = "center" >
 <a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
@@ -16,11 +16,11 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
-
-```bash
-> git clone https://github.com/XP-TN/XPTNNBOTV
-```
+## Gandakan proyek ini
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+pestakntenbotwa.dll
+> git clone https://github.com/XP-TN/kntenbotwa
+``
 
 ```bash
 >Command BOT $
@@ -31,15 +31,15 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd XPTNNBOT
+> cd kntenbotwa
 > bash install.sh
-```
-
-### Usage
-```bash
-> npm start
-```
-
+``
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+### Penggunaan
+pesta
+> npm mulai
+``
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </ s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>                                                                          
 ## Features
 
 | Sticker Creator |                Feature           |
